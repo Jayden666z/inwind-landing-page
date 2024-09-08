@@ -38,11 +38,11 @@ export default function Navbar() {
 				<Image
 					width={200}
 					height={200}
-					src={'/logo.gif'}
+					src={'/logo.png'}
 					className='transition-all hover:scale-110 w-6 md:w-10 h-6 md:h-10'
 					alt='logo'
 				></Image>
-				<h2 className='ml-3 font-bold leading-5'>Landing Page</h2>
+				<h2 className='ml-3 font-bold leading-5'>XnetVPN</h2>
 			</a>
 
 			<ul className='w-3/5 px-5 font-medium hidden md:flex flex-nowrap items-center justify-around'>

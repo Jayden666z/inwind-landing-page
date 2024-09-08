@@ -62,7 +62,7 @@ export default function Hero({ locale, CTALocale }) {
 				>
 					<h2 className='w-full md:w-10/12 mx-auto text-xl md:text-2xl text-base-content/80 md:text-center mb-5 md:mb-10'>{locale.h2}</h2>
 					<div className='w-full md:w-8/12 mx-auto flex flex-col md:flex-row md:items-center justify-between gap-y-5'>
-						<HeroIcons />
+						{/* <HeroIcons /> */}
 						<div className='flex flex-col md:flex-row gap-2'>
 							{/* <a
 								title='get source code'
@@ -77,7 +77,7 @@ export default function Hero({ locale, CTALocale }) {
 <a
 								title='Download for Android'
 								className='btn btn-sm md:btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full'
-								href='https://github.com/huglemon/inwind-landing-page'
+								href=''
 							>
 								<SiAndroid />
 								{os === 'Android' ? "Android 客户端下载" : ""}
@@ -86,7 +86,7 @@ export default function Hero({ locale, CTALocale }) {
 							<a
 								title='Download for iPhone'
 								className='btn btn-sm md:btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full'
-								href='https://github.com/huglemon/inwind-landing-page'
+								href=''
 							>
 								<SiApple />
 								{os === 'iPhone' ? "iPhone 客户端下载" : ""}
@@ -95,7 +95,7 @@ export default function Hero({ locale, CTALocale }) {
 							<a
 								title='Download for Windows'
 								className='btn btn-sm md:btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full'
-								href='https://github.com/huglemon/inwind-landing-page'
+								href=''
 							>
 								<SiWindows11 />
 								{os === 'Windows' ? "Windows 客户端下载" : ""}
@@ -105,7 +105,7 @@ export default function Hero({ locale, CTALocale }) {
 							<a
 								title='Download for Mac'
 								className='btn btn-sm md:btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full'
-								href='https://github.com/huglemon/inwind-landing-page'
+								href=''
 							>
 								<SiMacos />
 								{os === 'Mac' ? "Mac 客户端下载" : ""}

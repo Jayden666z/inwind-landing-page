@@ -1,14 +1,14 @@
 {
 	"Hero": {
-		"h1": "快速制作落地页",
-		"h2": "这是一个免费、开源且功能强大的落地页模板，适用于SaaS项目，它将帮助您更快地启动您的创业项目。"
+		"h1": "加密浏览、隐藏痕迹高速访问互联网安全易用的 VPN",
+		"h2": "突破地域限制自由获取世界各地的视频、音乐、社交媒体等。"
 	},
 	"Feature": {
 		"h2": "Feature",
-		"h3": "乘风-落地页模板的特点",
-		"description1": "出色的落地页模板。",
-		"description2": "基于Next.JS、DaisyUI、TailwindCSS和其他强大的库。",
-		"description3": "完全开源且完全免费。"
+		"h3": "XnetVPN 能让您享受到哪些服务",
+		"description1": "解锁流媒体服务，各国视频平台您都可以流畅观看",
+		"description2": "虚拟 IP 匿名访问互联网，隐匿您的一切互联网行踪",
+		"description3": "加密您的所有访问数据，确保网络连接安全"
 	},
 	"Pricing": {
 		"h2": "Pricing",
@@ -18,11 +18,11 @@
 		"follow": "关注我的推特。"
 	},
 	"Testimonial": {
-		"h2": "Testimonial",
-		"h3": "Wall of Love",
-		"description1": "如果您使用这个落地页模板并在您的推特上推荐它，",
-		"description2": "请告诉我",
-		"description3": "，我会在这里展示您的推文和推荐。"
+		"h2": "评价",
+		"h3": "XnetVPN 用户的评价",
+		"description1": "",
+		"description2": "",
+		"description3": ""
 	},
 	"Faq": {
 		"h2": "FAQ",
@@ -30,11 +30,11 @@
 		"description": "以下是一些最常见的问题。"
 	},
 	"CTA": {
-		"h2": "立即构建您的落地页",
-		"h3": "构建您的落地页，展示您的产品，并开始盈利！"
+		"h2": "立即开启全球互联",
+		"h3": ""
 	},
 	"CTAButton": {
-		"btn1": "获取源代码",
+		"btn1": "下载客户端",
 		"btn2": "查看文档"
 	}
 }
