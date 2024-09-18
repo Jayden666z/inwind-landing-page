@@ -77,13 +77,13 @@ export default function Hero({ locale, CTALocale }) {
 <a
 								title='Download for Android'
 								className='btn btn-sm md:btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full'
-								href=''
+								href='https://down.xnetvpn.com/downloads/app-release.apk'
 							>
 								<SiAndroid />
-								{os === 'Android' ? "Android 客户端下载" : ""}
+								{"Android 客户端下载" }
 							</a>
 
-							<a
+							{/* <a
 								title='Download for iPhone'
 								className='btn btn-sm md:btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full'
 								href=''
@@ -109,7 +109,7 @@ export default function Hero({ locale, CTALocale }) {
 							>
 								<SiMacos />
 								{os === 'Mac' ? "Mac 客户端下载" : ""}
-							</a>
+							</a> */}
 
 					
 					
