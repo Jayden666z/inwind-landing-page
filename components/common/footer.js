@@ -59,11 +59,11 @@ export default function Footer() {
 				<p>
 					©{' '}
 					<a
-						title={'huglemon'}
-						href='http://huglemon.com?rel=landingpage'
+						title={'XnetVpn'}
+						href='https://xnetvpn.com/'
 						target='_blank'
 					>
-						hugLemon
+						XnetVpn
 					</a>{' '}
 					present.
 				</p>
