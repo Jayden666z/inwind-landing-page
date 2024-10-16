@@ -62,7 +62,7 @@ export default function Hero({ locale }) {
 						<a
 							title='Download for Android'
 							className='btn btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full py-3 px-6'
-							href='https://down1.xnetvpn.com/downloads/app-release.apk'
+							href='https://down1.xnetvpn.com/down/app-release.apk'
 						>
 							<SiAndroid />
 							{"Android 客户端下载"}
