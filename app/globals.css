@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* 使容器占满整个视口高度 */
+}
