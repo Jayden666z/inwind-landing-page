@@ -72,7 +72,7 @@ export default function Hero({ locale }) {
 					<div className='w-full flex justify-center mt-5'>
         <img
             src='/show.webp' // 替换为你的图片路径
-            alt='描述性文字' // 替换为适当的描述性文字
+            alt='' // 替换为适当的描述性文字
             className='my-4' // 可根据需要添加样式
         />
     </div>
