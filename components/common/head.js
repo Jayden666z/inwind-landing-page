@@ -3,9 +3,9 @@ import React from 'react';
 export default function CustomHead() {
 	return (
 		<>
-			{/* <script
+			<script
 				async
-				src='https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXX'
+				src='https://www.googletagmanager.com/gtag/js?id=G-7NWYCWEF2J'
 			></script>
 			<script
 				dangerouslySetInnerHTML={{
@@ -13,10 +13,10 @@ export default function CustomHead() {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'G-XXXXXXXX');
+          gtag('config', 'G-7NWYCWEF2J');
         `,
 				}}
-			/> */}
+			/>
 			<script
 				dangerouslySetInnerHTML={{
 					__html: `
