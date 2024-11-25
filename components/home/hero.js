@@ -1,6 +1,7 @@
 'use client';
 import { motion } from 'framer-motion';
 import { SiAndroid } from 'react-icons/si';
+import { SiWindows10 } from "react-icons/si";
 import { useEffect, useState } from 'react';
 
 export default function Hero({ locale }) {
@@ -65,7 +66,16 @@ export default function Hero({ locale }) {
 							href='https://down1.xnetvpn.com/down/app-release.apk'
 						>
 							<SiAndroid />
-							{"Android 客户端下载"}
+							{"Download for Android"}
+						</a>
+
+								<a
+							title='Download for Windows'
+							className='btn btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full py-3 px-6'
+							href='https://down1.xnetvpn.com/down/hiddify-2.3.1%2B20300-windows-setup.exe'
+						>
+							<SiWindows10 />
+							{"Download for Windows"}
 						</a>
 					</div>
 
